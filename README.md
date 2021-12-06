@@ -8,7 +8,7 @@ The Goal of this app is to show how data is being posted from "POSTMAN" and how 
 ##### *It's a simple app with MongoDB.*
 
 ## DATABASE
-![image]({https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B})
+![image](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 
 ## SCHEMA
 
