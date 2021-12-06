@@ -1,5 +1,5 @@
 # Product-Management-APIs(MongoDB)
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/mr-sudheeshkumar/Product-Management-APIs-EXPRESS-/blob/main/assignment5/app.js)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/mr-sudheeshkumar/Product-Management-APIs-MongoDB-/blob/main/assignment5/app.js)
 
 ## **GOAL**
 The Goal of this app is to show how data is being posted from "POSTMAN" and how it is routed thorugh our router using EXPRESS and then onto "MongoDB" database.
