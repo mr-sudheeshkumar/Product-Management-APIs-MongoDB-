@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/mr-sudheeshkumar/Product-Management-APIs-MongoDB-/blob/main/assignment5/app.js)
 
 ## **GOAL**
-The Goal of this app is to show how data is being posted from "POSTMAN" and how it is routed thorugh our router using EXPRESS and then onto "MongoDB" database.
+The Goal of this app is to show how data is being posted from "POSTMAN" and how it is routed through our router using EXPRESS and then onto "MongoDB" database.
 
 ### ***Assignment 5***
 ##### *It's a simple app with MongoDB.*
