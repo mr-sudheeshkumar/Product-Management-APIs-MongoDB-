@@ -58,8 +58,8 @@ The Goal of this app is to show how data is being posted from "POSTMAN" and how 
 - delete product
 
 ## ***SCREENSHOTS***
-- [Click Here](https://github.com/mr-sudheeshkumar/Product-Management-APIs-EXPRESS-/tree/main/assignment5/Postman)
+- [Click Here](https://github.com/mr-sudheeshkumar/Product-Management-APIs-MongoDB-/tree/main/assignment5/Postman)
 
 #### ***SCREENSHOTS DEMO***
-![1.png](https://github.com/mr-sudheeshkumar/Product-Management-APIs-EXPRESS-/blob/main/assignment5/Postman/1.png)
-![2.png](https://github.com/mr-sudheeshkumar/Product-Management-APIs-EXPRESS-/blob/main/assignment5/Postman/8.png)
+![1.png](https://github.com/mr-sudheeshkumar/Product-Management-APIs-MongoDB-/blob/main/assignment5/Postman/1.png)
+![2.png](https://github.com/mr-sudheeshkumar/Product-Management-APIs-MongoDB-/blob/main/assignment5/Postman/8.png)
